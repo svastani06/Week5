@@ -1,4 +1,0 @@
-+Def mystery (2,3) : result = (2+3) / (3 - 2) return result 
-+
-+mystery(2,3)? 
-2+3=5
