@@ -1,0 +1,4 @@
+Enter file contents heredef mystery(2, 3) :
+result = (2 + 3) / (3 - 2)
+return result 
+What is the result of the call mystery(2, 3)? Answer 5
